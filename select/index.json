@@ -1,0 +1,272 @@
+{
+  "version": 1,
+  "base_track": "I Don't Love You",
+  "base_artist": "My Chemical Romance",
+  "createdAt": "2026-03-16T05:58:27.445982Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Don’t Love You",
+      "artist": "GRAY",
+      "has_synced": true,
+      "path": "select/01_I_Don’t_Love_You_GRAY.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Don't Love You",
+      "artist": "Elaiza",
+      "has_synced": true,
+      "path": "select/02_I_Don't_Love_You_Elaiza.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Don't Love You",
+      "artist": "APRE",
+      "has_synced": true,
+      "path": "select/03_I_Don't_Love_You_APRE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Don't Love You",
+      "artist": "Adanowsky",
+      "has_synced": true,
+      "path": "select/04_I_Don't_Love_You_Adanowsky.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Don't Love You Anymore",
+      "artist": "ANOHNI",
+      "has_synced": true,
+      "path": "select/05_I_Don't_Love_You_Anymore_ANOHNI.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Don't Love You Anymore",
+      "artist": "Anarbor",
+      "has_synced": true,
+      "path": "select/06_I_Don't_Love_You_Anymore_Anarbor.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Don't Love You Anymore",
+      "artist": "Wolfsheim",
+      "has_synced": true,
+      "path": "select/07_I_Don't_Love_You_Anymore_Wolfsheim.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Don't Love You",
+      "artist": "iAmJakeHill",
+      "has_synced": true,
+      "path": "select/08_I_Don't_Love_You_iAmJakeHill.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Don't Love You",
+      "artist": "Urban Zakapa",
+      "has_synced": true,
+      "path": "select/09_I_Don't_Love_You_Urban_Zakapa.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I DON'T LOVE YOU ANYMORE",
+      "artist": "Tyler",
+      "has_synced": true,
+      "path": "select/10_I_DON'T_LOVE_YOU_ANYMORE_Tyler.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Don't Love You",
+      "artist": "Cruel Youth",
+      "has_synced": false,
+      "path": "select/11_I_Don't_Love_You_Cruel_Youth.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Don’t Love You",
+      "artist": "My Chemical Romance",
+      "has_synced": true,
+      "path": "select/12_I_Don’t_Love_You_My_Chemical_Romance.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Don't Love You !??",
+      "artist": "Kumi Koda",
+      "has_synced": false,
+      "path": "select/13_I_Don't_Love_You_!_Kumi_Koda.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I don't love you anymore",
+      "artist": "Aleph",
+      "has_synced": true,
+      "path": "select/14_I_don't_love_you_anymore_Aleph.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "If I Don't Love You",
+      "artist": "Squeeze",
+      "has_synced": true,
+      "path": "select/15_If_I_Don't_Love_You_Squeeze.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "i dont love you",
+      "artist": "chemical romance",
+      "has_synced": false,
+      "path": "select/16_i_dont_love_you_chemical_romance.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "i don't lovE you",
+      "artist": "Lindsay Ell",
+      "has_synced": true,
+      "path": "select/17_i_don't_lovE_you_Lindsay_Ell.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "I Don’t Love Me Anymore",
+      "artist": "Oneohtrix Point Never",
+      "has_synced": true,
+      "path": "select/18_I_Don’t_Love_Me_Anymore_Oneohtrix_Point_Never.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Ma, I Don't Love Her (feat. Faith Evans)",
+      "artist": "Clipse",
+      "has_synced": false,
+      "path": "select/19_Ma,_I_Don't_Love_Her_(feat._Faith_Evans)_Clipse.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Ma, I Don't Love Her (ft. Faith Evans)",
+      "artist": "Clipse",
+      "has_synced": false,
+      "path": "select/20_Ma,_I_Don't_Love_Her_(ft._Faith_Evans)_Clipse.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Stop, I Don't Love You Anymore",
+      "artist": "Sharleen Spiteri",
+      "has_synced": true,
+      "path": "select/21_Stop,_I_Don't_Love_You_Anymore_Sharleen_Spiteri.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "I Don't Love You",
+      "artist": "DJDS",
+      "has_synced": false,
+      "path": "select/22_I_Don't_Love_You_DJDS.txt"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "I Don’t Love Here Anymore",
+      "artist": "Cheap Trick",
+      "has_synced": false,
+      "path": "select/23_I_Don’t_Love_Here_Anymore_Cheap_Trick.txt"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "I'm Leaving You Because I Don't Love You",
+      "artist": "Jens Lekman",
+      "has_synced": true,
+      "path": "select/24_I'm_Leaving_You_Because_I_Don't_Love_You_Jens_Lekman.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "I Don't Love You",
+      "artist": "My Chemical Romance",
+      "has_synced": true,
+      "path": "select/25_I_Don't_Love_You_My_Chemical_Romance.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "I Don't Love You",
+      "artist": "My Chemical Romance",
+      "has_synced": true,
+      "path": "select/26_I_Don't_Love_You_My_Chemical_Romance.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "I Don't Love You",
+      "artist": "My Chemical Romance",
+      "has_synced": true,
+      "path": "select/27_I_Don't_Love_You_My_Chemical_Romance.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "I Don't Love You",
+      "artist": "My Chemical Romance",
+      "has_synced": true,
+      "path": "select/28_I_Don't_Love_You_My_Chemical_Romance.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "If I Don't Love You Now",
+      "artist": "Stefanie Heinzmann",
+      "has_synced": true,
+      "path": "select/29_If_I_Don't_Love_You_Now_Stefanie_Heinzmann.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "I DON'T LOVE YOU ANYMORE",
+      "artist": "Tyler, The Creator",
+      "has_synced": true,
+      "path": "select/30_I_DON'T_LOVE_YOU_ANYMORE_Tyler,_The_Creator.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "I Don't Love You Anymore",
+      "artist": "Teddy Pendergrass",
+      "has_synced": true,
+      "path": "select/31_I_Don't_Love_You_Anymore_Teddy_Pendergrass.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "I Don't Love You Anymore",
+      "artist": "The Honeysticks",
+      "has_synced": true,
+      "path": "select/32_I_Don't_Love_You_Anymore_The_Honeysticks.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I Don't Love you",
+      "artist": "My Chemical Romance",
+      "has_synced": false,
+      "path": "select/pl_01_I_Don't_Love_you_My_Chemical_Romance.txt"
+    }
+  ]
+}
